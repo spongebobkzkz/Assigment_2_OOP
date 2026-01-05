@@ -69,7 +69,7 @@ class VehicleList {
 
 // Task 4
 class Assignment2 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         Vehicle s = new Sedan("Camry", "Toyota", 2020, 25000, 4);
         Vehicle b = new Bus("CityBus", "Mercedes", 2019, 50);
 
